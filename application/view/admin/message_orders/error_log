@@ -1,0 +1,16 @@
+[29-Jul-2020 20:57:04 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[29-Jul-2020 20:57:04 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[29-Jul-2020 22:59:40 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[29-Jul-2020 22:59:40 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[01-Aug-2020 09:46:38 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[01-Aug-2020 09:46:38 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[02-Aug-2020 11:31:18 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hindusta/public_html/config.php on line 14
+[02-Aug-2020 11:31:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hindusta/public_html/config.php on line 14
+[20-Aug-2020 13:25:19 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[20-Aug-2020 13:25:19 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[21-Aug-2020 22:33:31 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[21-Aug-2020 22:33:31 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[30-Aug-2020 13:34:51 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home2/hindusta/public_html/config.php on line 146
+[30-Aug-2020 13:34:51 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home2/hindusta/public_html/config.php on line 146
+[03-Sep-2020 16:15:12 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home2/hindusta/public_html/config.php on line 146
+[03-Sep-2020 16:15:12 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home2/hindusta/public_html/config.php on line 146

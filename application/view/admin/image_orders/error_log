@@ -1,0 +1,8 @@
+[02-Aug-2020 11:31:23 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hindusta/public_html/config.php on line 14
+[02-Aug-2020 11:31:24 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hindusta/public_html/config.php on line 14
+[09-Aug-2020 22:30:57 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[09-Aug-2020 22:30:57 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[12-Aug-2020 20:59:35 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[12-Aug-2020 20:59:35 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[21-Aug-2020 22:10:21 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146
+[21-Aug-2020 22:10:21 Asia/Kolkata] PHP Notice:  Undefined index: sess_adm_id in /home/hindusta/public_html/config.php on line 146

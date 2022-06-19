@@ -1,0 +1,12 @@
+<?php
+ include("../../../../config.php");
+$call_config->user_sess_checker();
+$sess_data_var=$call_config->user_sess_data_bind();
+include('../../../../public/user/v1_HeadPart.php');
+include('../../../../public/user/v2_sidebar.php');
+include('../../../../public/user/v3_TopNavBar_login.php');
+include('v4_content.php');
+?>
+<?php
+ include('../../../../public/user/v5_Footer.php');
+?>
